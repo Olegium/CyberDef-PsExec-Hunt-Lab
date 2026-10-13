@@ -7,3 +7,7 @@
 имя компа домена
 
 <img width="1491" height="537" alt="image" src="https://github.com/user-attachments/assets/0904167e-f5b4-497d-ab1b-fa76872c0618" />
+
+имя записи где ве происходит
+
+<img width="1213" height="278" alt="image" src="https://github.com/user-attachments/assets/d204e40b-789d-4832-a548-3d25159a5c09" />
