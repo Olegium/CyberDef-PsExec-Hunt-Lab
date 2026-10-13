@@ -16,6 +16,6 @@
 
 <img width="1193" height="463" alt="image" src="https://github.com/user-attachments/assets/db72e7fa-bad8-4b6c-a586-186b3566cdc6" />
 
-имя общего сетевого ресурса
+имя общего сетевого ресурса и каким пользовались
 
 <img width="1098" height="109" alt="image" src="https://github.com/user-attachments/assets/b7c98c97-efe8-4411-9562-ab03363132e9" />
